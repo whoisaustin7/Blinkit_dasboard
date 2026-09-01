@@ -1,5 +1,7 @@
 # 🛒 Blinkit Sales Analytics – Power BI Dashboard
 
+### 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTUxMDkyNDAtNGMzNi00NzRhLTliZmItM2RjMDdjMmU5MWQ5IiwidCI6IjA3ZTE4NGQ1LTU2YmYtNDlkMC1hNWNkLTIzYzA1YzFiZWQwZiJ9)
+
 A single-page **Power BI analytics dashboard** analyzing Blinkit's sales performance across outlet size, outlet type, outlet location tier, item category, and fat content.
 This project turns 8,523 outlet-item sales records into an executive-ready dashboard with dynamic KPI switching, filterable panels, and category-level breakdowns.
 
